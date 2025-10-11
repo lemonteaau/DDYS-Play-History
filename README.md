@@ -2,6 +2,9 @@
 
 Tampermonkey 用户脚本，用于记录你在 `ddys.pro` 上观看的剧集/电影，并在首页展示一个可折叠的播放历史悬浮窗。
 
+<img width="339" height="292" alt="image" src="https://github.com/user-attachments/assets/8aeab2ed-3a95-47f2-8bca-a11caaab5beb" />
+
+
 ## 功能
 - 自动记录播放历史、集数、进度时间戳以及缩略图
 - 首页右下角显示历史悬浮窗，可一键展开/收起或清空记录
